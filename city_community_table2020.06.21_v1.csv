@@ -1,0 +1,318 @@
+ID,date,geo_merge,cases_final,case_rate_final,adj_case_rate_final,deaths_final,death_rate_final,adj_death_rate_final,population
+1,6/21/2020,City of Agoura Hills,47,225,209,1,5,5,20883
+2,6/21/2020,City of Alhambra,337,389,370,10,12,7,86724
+3,6/21/2020,City of Arcadia,130,225,202,7,12,8,57754
+4,6/21/2020,City of Artesia,82,488,449,1,6,4,16795
+5,6/21/2020,City of Azusa,328,655,661,8,16,20,50040
+6,6/21/2020,City of Baldwin Park,620,808,800,8,10,11,76769
+7,6/21/2020,City of Bell,557,1533,1599,22,61,86,36332
+8,6/21/2020,City of Bell Gardens,556,1291,1379,11,26,44,43071
+9,6/21/2020,City of Bellflower,653,840,838,24,31,35,77735
+10,6/21/2020,City of Beverly Hills,199,576,547,6,17,9,34520
+11,6/21/2020,City of Bradbury,5,468,560,0,0,0,1069
+12,6/21/2020,City of Burbank,490,457,403,45,42,32,107180
+13,6/21/2020,City of Calabasas,103,423,382,10,41,34,24323
+14,6/21/2020,City of Carson,575,613,585,27,29,22,93846
+15,6/21/2020,City of Cerritos,179,358,378,4,8,5,50067
+16,6/21/2020,City of Claremont,83,228,230,2,5,3,36484
+17,6/21/2020,City of Commerce,151,1155,1160,1,8,7,13069
+18,6/21/2020,City of Compton,1119,1120,1130,23,23,31,99904
+19,6/21/2020,City of Covina,297,606,607,7,14,13,49032
+20,6/21/2020,City of Cudahy,393,1614,1678,10,41,66,24347
+21,6/21/2020,City of Culver City,186,467,403,26,65,44,39865
+22,6/21/2020,City of Diamond Bar,108,188,174,3,5,4,57515
+23,6/21/2020,City of Downey,1214,1062,1038,43,38,36,114263
+24,6/21/2020,City of Duarte,159,722,623,17,77,47,22016
+25,6/21/2020,City of El Monte,1130,964,955,41,35,36,117269
+26,6/21/2020,City of El Segundo,42,250,247,0,0,0,16786
+27,6/21/2020,City of Gardena,408,665,631,29,47,32,61310
+28,6/21/2020,City of Glendale,1247,604,505,102,49,33,206493
+29,6/21/2020,City of Glendora,239,453,418,9,17,14,52764
+30,6/21/2020,City of Hawaiian Gardens,139,947,933,1,7,8,14676
+31,6/21/2020,City of Hawthorne,608,685,683,22,25,30,88787
+32,6/21/2020,City of Hermosa Beach,56,285,253,2,10,13,19670
+33,6/21/2020,City of Hidden Hills,4,212,107,0,0,0,1890
+34,6/21/2020,City of Huntington Park,923,1552,1560,17,29,37,59484
+35,6/21/2020,City of Industry,13,2975,2980,2,458,556,437
+36,6/21/2020,City of Inglewood,839,739,729,60,53,57,113582
+37,6/21/2020,City of Irwindale,7,480,475,0,0,0,1459
+38,6/21/2020,City of La Canada Flintridge,69,333,431,6,29,17,20693
+39,6/21/2020,City of La Habra Heights,13,238,214,0,0,0,5455
+40,6/21/2020,City of La Mirada,265,534,479,19,38,25,49599
+41,6/21/2020,City of La Puente,295,725,709,3,7,8,40697
+42,6/21/2020,City of La Verne,70,210,217,2,6,3,33282
+43,6/21/2020,City of Lakewood,324,403,397,9,11,10,80362
+44,6/21/2020,City of Lancaster,871,539,550,13,8,8,161570
+45,6/21/2020,City of Lawndale,173,515,501,6,18,25,33614
+46,6/21/2020,City of Lomita,66,318,306,6,29,19,20729
+47,6/21/2020,City of Lynwood,1093,1517,1668,52,72,116,72047
+48,6/21/2020,City of Malibu,47,363,304,1,8,4,12961
+49,6/21/2020,City of Manhattan Beach,98,272,252,3,8,8,35999
+50,6/21/2020,City of Maywood,519,1850,2010,15,53,83,28049
+51,6/21/2020,City of Monrovia,217,559,547,27,70,66,38800
+52,6/21/2020,City of Montebello,697,1083,1053,23,36,30,64375
+53,6/21/2020,City of Monterey Park,259,416,412,10,16,8,62262
+54,6/21/2020,City of Norwalk,841,781,763,27,25,25,107622
+55,6/21/2020,City of Palmdale,1020,642,643,20,13,14,158968
+56,6/21/2020,City of Palos Verdes Estates,48,355,289,1,7,4,13522
+57,6/21/2020,City of Paramount,645,1151,1158,12,21,26,56023
+58,6/21/2020,City of Pico Rivera,780,1213,1166,34,53,47,64284
+59,6/21/2020,City of Pomona,1040,667,659,18,12,15,155931
+60,6/21/2020,City of Rancho Palos Verdes,122,285,283,12,28,13,42747
+61,6/21/2020,City of Redondo Beach,170,247,245,8,12,12,68697
+62,6/21/2020,City of Rolling Hills,2,103,61,0,0,0,1940
+63,6/21/2020,City of Rolling Hills Estates,18,222,317,1,12,6,8113
+64,6/21/2020,City of Rosemead,185,334,324,8,14,11,55350
+65,6/21/2020,City of San Dimas,111,322,326,2,6,6,34516
+66,6/21/2020,City of San Fernando,261,1060,1080,11,45,52,24612
+67,6/21/2020,City of San Gabriel,199,486,431,20,49,32,40954
+68,6/21/2020,City of San Marino,25,188,176,1,8,4,13277
+69,6/21/2020,City of Santa Clarita,959,435,445,24,11,12,220424
+70,6/21/2020,City of Santa Fe Springs,111,604,604,1,5,5,18364
+71,6/21/2020,City of Santa Monica,356,385,320,26,28,20,92446
+72,6/21/2020,City of Sierra Madre,27,246,206,2,18,12,10989
+73,6/21/2020,City of Signal Hill,60,509,522,0,0,0,11797
+74,6/21/2020,City of South El Monte,210,1006,1018,4,19,17,20885
+75,6/21/2020,City of South Gate,1313,1338,1330,28,29,36,98155
+76,6/21/2020,City of South Pasadena,142,545,476,21,81,64,26053
+77,6/21/2020,City of Temple City,206,565,447,28,77,47,36455
+78,6/21/2020,City of Torrance,492,330,302,50,34,24,149268
+79,6/21/2020,City of Vernon,5,2392,5273,0,0,0,209
+80,6/21/2020,City of Walnut,71,233,216,1,3,1,30532
+81,6/21/2020,City of West Covina,665,614,589,13,12,10,108235
+82,6/21/2020,City of West Hollywood,218,590,474,4,11,7,36951
+83,6/21/2020,City of Westlake Village,7,84,54,0,0,0,8360
+84,6/21/2020,City of Whittier,520,595,578,13,15,15,87432
+85,6/21/2020,Los Angeles - Adams-Normandie,87,1061,1058,3,37,38,8202
+86,6/21/2020,Los Angeles - Alsace,120,964,946,0,0,0,12445
+87,6/21/2020,Los Angeles - Angeles National Forest,2,5000,1576,0,0,0,40
+88,6/21/2020,Los Angeles - Angelino Heights,22,879,765,1,40,38,2502
+89,6/21/2020,Los Angeles - Arleta,383,1114,1074,10,29,34,34370
+90,6/21/2020,Los Angeles - Atwater Village,60,409,392,2,14,11,14666
+91,6/21/2020,Los Angeles - Baldwin Hills,232,745,707,22,71,56,31125
+92,6/21/2020,Los Angeles - Bel Air,43,510,480,0,0,0,8429
+93,6/21/2020,Los Angeles - Beverly Crest,49,391,425,2,16,9,12525
+94,6/21/2020,Los Angeles - Beverlywood,51,387,387,0,0,0,13173
+95,6/21/2020,Los Angeles - Boyle Heights,1375,1583,1586,20,23,27,86884
+96,6/21/2020,Los Angeles - Brentwood,98,317,288,2,6,4,30955
+97,6/21/2020,Los Angeles - Brookside,1,172,118,0,0,0,581
+98,6/21/2020,Los Angeles - Cadillac-Corning,40,562,580,1,14,27,7121
+99,6/21/2020,Los Angeles - Canoga Park,692,1060,1073,33,51,64,65289
+100,6/21/2020,Los Angeles - Carthay,96,668,687,8,56,23,14363
+101,6/21/2020,Los Angeles - Central,802,2057,2119,19,49,69,38992
+102,6/21/2020,Los Angeles - Century City,47,367,372,0,0,0,12792
+103,6/21/2020,Los Angeles - Century Palms/Cove,482,1427,1470,4,12,15,33766
+104,6/21/2020,Los Angeles - Chatsworth,255,688,635,31,84,53,37061
+105,6/21/2020,Los Angeles - Cheviot Hills,29,316,337,1,11,5,9171
+106,6/21/2020,Los Angeles - Chinatown,30,374,378,1,12,10,8021
+107,6/21/2020,Los Angeles - Cloverdale/Cochran,109,749,716,5,34,37,14553
+108,6/21/2020,Los Angeles - Country Club Park,134,884,768,20,132,100,15153
+109,6/21/2020,Los Angeles - Crenshaw District,105,759,763,2,14,9,13829
+110,6/21/2020,Los Angeles - Crestview,101,888,827,16,141,129,11368
+111,6/21/2020,Los Angeles - Del Rey,103,344,328,6,20,16,29936
+112,6/21/2020,Los Angeles - Downtown,224,814,815,6,22,13,27507
+113,6/21/2020,Los Angeles - Eagle Rock,255,644,595,16,40,28,39589
+114,6/21/2020,Los Angeles - East Hollywood,273,932,859,39,133,116,29287
+115,6/21/2020,Los Angeles - Echo Park,69,484,474,1,7,9,14256
+116,6/21/2020,Los Angeles - El Sereno,334,799,778,18,43,38,41808
+117,6/21/2020,Los Angeles - Elysian Park,20,350,316,0,0,0,5712
+118,6/21/2020,Los Angeles - Elysian Valley,87,855,810,0,0,0,10171
+119,6/21/2020,Los Angeles - Encino,170,376,344,15,33,16,45172
+120,6/21/2020,Los Angeles - Exposition,18,541,525,0,0,0,3326
+121,6/21/2020,Los Angeles - Exposition Park,390,868,899,11,24,31,44917
+122,6/21/2020,Los Angeles - Faircrest Heights,10,278,233,1,28,23,3600
+123,6/21/2020,Los Angeles - Figueroa Park Square,84,963,973,0,0,0,8721
+124,6/21/2020,Los Angeles - Florence-Firestone,734,1547,1596,14,30,42,47445
+125,6/21/2020,Los Angeles - Glassell Park,255,807,761,6,19,17,31604
+126,6/21/2020,Los Angeles - Gramercy Place,98,910,941,2,19,12,10764
+127,6/21/2020,Los Angeles - Granada Hills,480,825,715,49,84,62,58191
+128,6/21/2020,Los Angeles - Green Meadows,287,1335,1347,3,14,18,21505
+129,6/21/2020,Los Angeles - Hancock Park,103,604,574,2,12,12,17039
+130,6/21/2020,Los Angeles - Harbor City,161,554,533,7,24,18,29070
+131,6/21/2020,Los Angeles - Harbor Gateway,238,546,535,7,16,17,43600
+132,6/21/2020,Los Angeles - Harbor Pines,9,374,398,0,0,0,2409
+133,6/21/2020,Los Angeles - Harvard Heights,191,1059,1053,15,83,98,18035
+134,6/21/2020,Los Angeles - Harvard Park,501,1321,1326,7,18,19,37935
+135,6/21/2020,Los Angeles - Highland Park,374,773,757,2,4,5,48391
+136,6/21/2020,Los Angeles - Historic Filipinotown,192,1384,1284,7,50,43,13870
+137,6/21/2020,Los Angeles - Hollywood,378,554,489,6,9,9,68254
+138,6/21/2020,Los Angeles - Hollywood Hills,100,340,348,5,17,16,29434
+139,6/21/2020,Los Angeles - Hyde Park,223,781,747,5,18,14,28541
+140,6/21/2020,Los Angeles - Jefferson Park,75,929,918,1,12,10,8073
+141,6/21/2020,Los Angeles - Koreatown,409,791,760,18,35,34,51693
+142,6/21/2020,Los Angeles - Lafayette Square,29,636,621,0,0,0,4559
+143,6/21/2020,Los Angeles - Lake Balboa,279,661,646,8,19,21,42206
+144,6/21/2020,Los Angeles - Lakeview Terrace,188,1432,1420,4,30,27,13133
+145,6/21/2020,Los Angeles - Leimert Park,83,545,527,2,13,8,15235
+146,6/21/2020,Los Angeles - Lincoln Heights,414,1270,1232,26,80,71,32597
+147,6/21/2020,Los Angeles - Little Armenia,235,2928,2489,40,498,401,8025
+148,6/21/2020,Los Angeles - Little Bangladesh,204,720,715,4,14,15,28343
+149,6/21/2020,Los Angeles - Little Tokyo,34,1085,956,2,64,21,3133
+150,6/21/2020,Los Angeles - Longwood,33,767,727,0,0,0,4304
+151,6/21/2020,Los Angeles - Los Feliz,69,319,327,1,5,3,21608
+152,6/21/2020,Los Angeles - Manchester Square,42,492,466,1,12,9,8536
+153,6/21/2020,Los Angeles - Mandeville Canyon,3,96,179,0,0,0,3124
+154,6/21/2020,Los Angeles - Mar Vista,104,245,231,5,12,9,42471
+155,6/21/2020,Los Angeles - Marina Peninsula,19,436,376,0,0,0,4360
+156,6/21/2020,Los Angeles - Melrose,742,955,924,44,57,58,77696
+157,6/21/2020,Los Angeles - Mid-city,147,978,890,16,106,97,15030
+158,6/21/2020,Los Angeles - Miracle Mile,52,289,243,5,28,25,17985
+159,6/21/2020,Los Angeles - Mission Hills,223,924,891,11,46,43,24124
+160,6/21/2020,Los Angeles - Mt. Washington,143,592,572,4,17,15,24145
+161,6/21/2020,Los Angeles - North Hills,666,1082,1068,27,44,51,61575
+162,6/21/2020,Los Angeles - North Hollywood,1016,671,635,30,20,22,151421
+163,6/21/2020,Los Angeles - Northridge,495,709,668,34,49,39,69797
+164,6/21/2020,Los Angeles - Pacific Palisades,63,296,357,3,14,6,21291
+165,6/21/2020,Los Angeles - Pacoima,1122,1458,1480,19,25,31,76979
+166,6/21/2020,Los Angeles - Palisades Highlands,8,208,185,0,0,0,3846
+167,6/21/2020,Los Angeles - Palms,244,556,610,23,52,70,43877
+168,6/21/2020,Los Angeles - Panorama City,1121,1490,1524,54,72,98,75250
+169,6/21/2020,Los Angeles - Park La Brea,28,206,187,1,7,8,13580
+170,6/21/2020,Los Angeles - Pico-Union,828,1979,2054,65,155,186,41842
+171,6/21/2020,Los Angeles - Playa Del Rey,5,156,192,0,0,0,3196
+172,6/21/2020,Los Angeles - Playa Vista,40,365,341,0,0,0,10947
+173,6/21/2020,Los Angeles - Porter Ranch,124,348,361,6,17,10,35588
+174,6/21/2020,Los Angeles - Rancho Park,20,305,336,0,0,0,6560
+175,6/21/2020,Los Angeles - Regent Square,12,432,424,0,0,0,2780
+176,6/21/2020,Los Angeles - Reseda,822,1073,1027,43,56,52,76617
+177,6/21/2020,Los Angeles - Reseda Ranch,34,733,661,0,0,0,4636
+178,6/21/2020,Los Angeles - Reynier Village,18,426,445,0,0,0,4228
+179,6/21/2020,Los Angeles - San Pedro,1076,1379,1370,19,24,22,78038
+180,6/21/2020,Los Angeles - Shadow Hills,16,360,458,0,0,0,4442
+181,6/21/2020,Los Angeles - Sherman Oaks,325,372,380,13,15,13,87254
+182,6/21/2020,Los Angeles - Silverlake,243,551,520,14,32,28,44083
+183,6/21/2020,Los Angeles - South Carthay,44,415,499,1,9,6,10595
+184,6/21/2020,Los Angeles - South Park,711,1873,1926,12,32,42,37961
+185,6/21/2020,Los Angeles - St Elmo Village,53,1156,1332,6,131,204,4584
+186,6/21/2020,Los Angeles - Studio City,94,419,423,8,36,32,22440
+187,6/21/2020,Los Angeles - Sun Valley,442,842,809,9,17,18,52483
+188,6/21/2020,Los Angeles - Sunland,200,980,840,20,98,67,20408
+189,6/21/2020,Los Angeles - Sycamore Square,1,155,79,0,0,0,647
+190,6/21/2020,Los Angeles - Sylmar,1115,1353,1362,51,62,77,82398
+191,6/21/2020,Los Angeles - Tarzana,310,1004,877,23,74,47,30876
+192,6/21/2020,Los Angeles - Temple-Beaudry,467,1183,1135,14,35,40,39482
+193,6/21/2020,Los Angeles - Thai Town,48,489,425,0,0,0,9809
+194,6/21/2020,Los Angeles - Toluca Lake,24,276,298,0,0,0,8704
+195,6/21/2020,Los Angeles - Toluca Terrace,8,613,706,0,0,0,1306
+196,6/21/2020,Los Angeles - Toluca Woods,3,161,108,0,0,0,1858
+197,6/21/2020,Los Angeles - Tujunga,158,568,528,11,40,33,27810
+198,6/21/2020,Los Angeles - University Hills,17,496,478,1,29,19,3429
+199,6/21/2020,Los Angeles - University Park,306,1115,1659,5,18,30,27456
+200,6/21/2020,Los Angeles - Valley Glen,190,633,602,9,30,30,30016
+201,6/21/2020,Los Angeles - Valley Village,270,1092,997,19,77,62,24720
+202,6/21/2020,Los Angeles - Van Nuys,1057,1134,1143,39,42,54,93194
+203,6/21/2020,Los Angeles - Venice,82,242,260,2,6,6,33885
+204,6/21/2020,Los Angeles - Vermont Knolls,282,1640,1621,4,23,26,17200
+205,6/21/2020,Los Angeles - Vermont Square,134,1750,1726,2,26,24,7657
+206,6/21/2020,Los Angeles - Vermont Vista,631,1532,1599,10,24,35,41186
+207,6/21/2020,Los Angeles - Vernon Central,1079,2075,2124,16,31,43,51998
+208,6/21/2020,Los Angeles - Victoria Park,78,929,884,2,24,20,8399
+209,6/21/2020,Los Angeles - View Heights,12,325,296,2,54,42,3694
+210,6/21/2020,Los Angeles - Watts,553,1296,1405,12,28,48,42674
+211,6/21/2020,Los Angeles - Wellington Square,40,814,772,0,0,0,4915
+212,6/21/2020,Los Angeles - West Adams,347,1256,1226,23,83,90,27630
+213,6/21/2020,Los Angeles - West Hills,194,478,433,22,54,32,40545
+214,6/21/2020,Los Angeles - West Los Angeles,128,340,330,6,16,18,37636
+215,6/21/2020,Los Angeles - West Vernon,761,1419,1415,22,41,50,53644
+216,6/21/2020,Los Angeles - Westchester,136,264,251,11,21,18,51603
+217,6/21/2020,Los Angeles - Westlake,1177,1983,2058,96,162,188,59355
+218,6/21/2020,Los Angeles - Westwood,105,194,203,5,9,9,54109
+219,6/21/2020,Los Angeles - Wholesale District,1002,2773,2346,8,22,29,36129
+220,6/21/2020,Los Angeles - Wilmington,461,816,832,6,11,12,56487
+221,6/21/2020,Los Angeles - Wilshire Center,373,743,702,22,44,43,50170
+222,6/21/2020,Los Angeles - Winnetka,402,776,733,5,10,10,51786
+223,6/21/2020,Los Angeles - Woodland Hills,236,347,321,14,21,14,68055
+224,6/21/2020,Unincorporated - Acton,19,238,261,2,25,18,7971
+225,6/21/2020,Unincorporated - Agua Dulce,9,216,313,0,0,0,4158
+226,6/21/2020,Unincorporated - Altadena,201,461,466,6,14,12,43620
+227,6/21/2020,Unincorporated - Anaverde,4,265,330,0,0,0,1508
+228,6/21/2020,Unincorporated - Angeles National Forest,2,161,152,0,0,0,1245
+229,6/21/2020,Unincorporated - Arcadia,17,213,189,1,13,8,7981
+230,6/21/2020,Unincorporated - Athens Village,52,1062,1102,3,61,59,4897
+231,6/21/2020,Unincorporated - Athens-Westmont,373,879,873,10,24,25,42442
+232,6/21/2020,Unincorporated - Avocado Heights,52,768,771,1,15,14,6775
+233,6/21/2020,Unincorporated - Azusa,118,741,722,2,13,17,15923
+234,6/21/2020,Unincorporated - Bassett,187,1262,1242,4,27,26,14817
+235,6/21/2020,Unincorporated - Bouquet Canyon,1,93,82,1,93,82,1073
+236,6/21/2020,Unincorporated - Canyon Country,39,505,519,0,0,0,7728
+237,6/21/2020,Unincorporated - Castaic,1731,6366,5798,2,7,8,27191
+238,6/21/2020,Unincorporated - Covina,89,529,517,1,6,7,16819
+239,6/21/2020,Unincorporated - Covina (Charter Oak),73,555,556,0,0,0,13144
+240,6/21/2020,Unincorporated - Del Aire,20,455,410,1,23,25,4393
+241,6/21/2020,Unincorporated - Del Rey,1,314,425,0,0,0,318
+242,6/21/2020,Unincorporated - Del Sur,2,83,40,1,41,20,2415
+243,6/21/2020,Unincorporated - Desert View Highlands,7,281,281,1,40,24,2493
+244,6/21/2020,Unincorporated - Duarte,29,655,646,1,23,17,4428
+245,6/21/2020,Unincorporated - East La Mirada,27,510,494,0,0,0,5292
+246,6/21/2020,Unincorporated - East Los Angeles,1971,1573,1595,50,40,48,125269
+247,6/21/2020,Unincorporated - East Pasadena,4,62,60,0,0,0,6403
+248,6/21/2020,Unincorporated - East Rancho Dominguez,138,901,886,3,20,23,15308
+249,6/21/2020,Unincorporated - East Whittier,18,339,350,0,0,0,5306
+250,6/21/2020,Unincorporated - El Camino Village,67,762,752,2,23,16,8791
+251,6/21/2020,Unincorporated - El Monte,1,690,538,0,0,0,145
+252,6/21/2020,Unincorporated - Elizabeth Lake,4,241,226,0,0,0,1661
+253,6/21/2020,Unincorporated - Florence-Firestone,1067,1649,1688,19,29,41,64705
+254,6/21/2020,Unincorporated - Glendora,2,303,456,0,0,0,660
+255,6/21/2020,Unincorporated - Hacienda Heights,253,452,450,3,5,4,55926
+256,6/21/2020,Unincorporated - Hawthorne,11,438,399,0,0,0,2514
+257,6/21/2020,Unincorporated - Hi Vista,1,91,202,0,0,0,1098
+258,6/21/2020,Unincorporated - Kagel/Lopez Canyons,8,567,675,1,71,113,1412
+259,6/21/2020,Unincorporated - La Crescenta-Montrose,39,197,206,1,5,3,19801
+260,6/21/2020,Unincorporated - La Rambla,47,2265,1769,4,193,138,2075
+261,6/21/2020,Unincorporated - La Verne,7,343,353,0,0,0,2040
+262,6/21/2020,Unincorporated - Ladera Heights,25,354,259,1,14,7,7071
+263,6/21/2020,Unincorporated - Lake Hughes,1,150,192,0,0,0,668
+264,6/21/2020,Unincorporated - Lake Los Angeles,37,285,300,2,15,25,12994
+265,6/21/2020,Unincorporated - Lake Manor,5,304,277,0,0,0,1643
+266,6/21/2020,Unincorporated - Lennox,168,745,760,0,0,0,22542
+267,6/21/2020,Unincorporated - Leona Valley,4,228,244,0,0,0,1751
+268,6/21/2020,Unincorporated - Littlerock,20,497,489,0,0,0,4021
+269,6/21/2020,Unincorporated - Littlerock/Juniper Hills,2,154,207,0,0,0,1297
+270,6/21/2020,Unincorporated - Littlerock/Pearblossom,28,785,767,0,0,0,3569
+271,6/21/2020,Unincorporated - Llano,1,114,109,0,0,0,877
+272,6/21/2020,Unincorporated - Marina del Rey,18,191,193,1,11,13,9411
+273,6/21/2020,Unincorporated - Monrovia,25,644,640,0,0,0,3881
+274,6/21/2020,Unincorporated - Newhall,2,909,761,0,0,0,220
+275,6/21/2020,Unincorporated - North Lancaster,7,584,568,0,0,0,1198
+276,6/21/2020,Unincorporated - North Whittier,31,371,363,1,12,11,8360
+277,6/21/2020,Unincorporated - Northeast San Gabriel,86,358,355,5,21,19,24036
+278,6/21/2020,Unincorporated - Palmdale,6,713,761,0,0,0,842
+279,6/21/2020,Unincorporated - Pearblossom/Llano,4,204,178,0,0,0,1956
+280,6/21/2020,Unincorporated - Pellissier Village,3,485,506,0,0,0,619
+281,6/21/2020,Unincorporated - Pomona,4,206,388,1,52,86,1938
+282,6/21/2020,Unincorporated - Quartz Hill,50,387,350,9,70,51,12906
+283,6/21/2020,Unincorporated - Rancho Dominguez,23,864,813,1,38,18,2661
+284,6/21/2020,Unincorporated - Roosevelt,1,107,60,0,0,0,931
+285,6/21/2020,Unincorporated - Rosewood,8,622,783,0,0,0,1286
+286,6/21/2020,Unincorporated - Rosewood/East Gardena,2,168,163,0,0,0,1193
+287,6/21/2020,Unincorporated - Rosewood/West Rancho Dominguez,33,982,1049,1,30,30,3361
+288,6/21/2020,Unincorporated - Rowland Heights,216,423,427,4,8,5,51022
+289,6/21/2020,Unincorporated - San Jose Hills,157,776,773,4,20,19,20221
+290,6/21/2020,Unincorporated - San Pasqual,2,98,67,0,0,0,2035
+291,6/21/2020,Unincorporated - Santa Catalina Island,3,1124,3081,0,0,0,267
+292,6/21/2020,Unincorporated - Santa Monica Mountains,34,183,220,1,5,2,18621
+293,6/21/2020,Unincorporated - Saugus,5,3226,3201,0,0,0,155
+294,6/21/2020,Unincorporated - South Antelope Valley,1,220,256,0,0,0,455
+295,6/21/2020,Unincorporated - South El Monte,11,613,589,0,0,0,1795
+296,6/21/2020,Unincorporated - South San Gabriel,69,780,708,4,45,29,8848
+297,6/21/2020,Unincorporated - South Whittier,325,549,540,7,12,11,59222
+298,6/21/2020,Unincorporated - Southeast Antelope Valley,1,128,168,0,0,0,781
+299,6/21/2020,Unincorporated - Stevenson Ranch,49,234,249,0,0,0,20966
+300,6/21/2020,Unincorporated - Sun Village,28,464,462,0,0,0,6036
+301,6/21/2020,Unincorporated - Sunrise Village,10,772,934,0,0,0,1296
+302,6/21/2020,Unincorporated - Twin Lakes/Oat Mountain,7,422,417,1,60,78,1658
+303,6/21/2020,Unincorporated - Val Verde,23,695,615,0,0,0,3309
+304,6/21/2020,Unincorporated - Valencia,12,391,957,1,33,258,3072
+305,6/21/2020,Unincorporated - Valinda,189,809,789,1,4,5,23371
+306,6/21/2020,Unincorporated - View Park/Windsor Hills,52,447,439,2,17,7,11635
+307,6/21/2020,Unincorporated - Walnut Park,225,1394,1392,4,25,27,16143
+308,6/21/2020,Unincorporated - West Antelope Valley,3,199,248,0,0,0,1511
+309,6/21/2020,Unincorporated - West Carson,135,611,512,11,50,30,22086
+310,6/21/2020,Unincorporated - West LA,24,2521,1895,2,210,67,952
+311,6/21/2020,Unincorporated - West Puente Valley,68,691,678,0,0,0,9835
+312,6/21/2020,Unincorporated - West Rancho Dominguez,10,736,743,1,74,63,1359
+313,6/21/2020,Unincorporated - West Whittier/Los Nietos,276,1025,1016,5,19,19,26925
+314,6/21/2020,Unincorporated - White Fence Farms,17,462,534,0,0,0,3683
+315,6/21/2020,Unincorporated - Whittier,17,449,448,0,0,0,3784
+316,6/21/2020,Unincorporated - Willowbrook,429,1229,1258,10,29,40,34913
+317,6/21/2020,Unincorporated - Wiseburn,29,481,440,0,0,0,6027
